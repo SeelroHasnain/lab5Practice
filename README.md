@@ -1,2 +1,2 @@
 # lab5Practice
-we are learning Github
+we are learning Github today
